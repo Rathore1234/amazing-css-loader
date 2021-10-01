@@ -122,3 +122,17 @@ body
         background: rgba(255,0,0,.2);
     }
 }
+
+loader span:nth-child(9)
+
+{
+
+    top: 120px;
+
+    left: 120px;
+
+    bottom: 120px;
+
+    right: 120px;
+
+    animation-delay: -0.8s;
